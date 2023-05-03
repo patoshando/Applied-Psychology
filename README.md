@@ -19,7 +19,5 @@ neovlivňuje production verzi!
 # HOSTING
 
 
-```
 [https://zapocet-blog.web.app/cs](https://pages.github.com/)
 
-```
