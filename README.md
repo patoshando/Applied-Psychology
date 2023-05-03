@@ -20,5 +20,6 @@ neovlivňuje production verzi!
 
 
 ```
-https://zapocet-blog.web.app/cs
+[https://zapocet-blog.web.app/cs](https://pages.github.com/)
+
 ```
