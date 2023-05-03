@@ -14,7 +14,7 @@
           <button @click="openPreview" class="preview" :class="{ 'button-inactive': !this.$store.state.blogPhotoFileURL }">
             Preview Obrázku
           </button>
-          <span>Vybraný soubor: {{ this.$store.state.blogPhotoName }}</span>
+          <span>Vybranýy soubor: {{ this.$store.state.blogPhotoName }}</span>
         </div>
       </div>
       <div class="editor">
