@@ -1,0 +1,123 @@
+{
+  "routes":{
+    "pro-autory":"Pro-autory"
+  },
+  "posledni-cisla": "Přečtěte si poslední vydání časopisu",
+  "mobile": "Aplikovaná psychologie",
+  "nav": {
+    "Domu": "Domů",
+    "Archiv": "Archiv předchozích vydání",
+    "Pro_Autory": "Pro Autory",
+    "Eticky_kodex": "Etický Kodex",
+    "Redakce": "Redakce",
+    "Vydavatel": "Vydavatel",
+    "Kontakt": "Kontakt",
+    "Novy_prispevek": "Nový příspěvek",
+    "Prihlasit": "Admin"
+  },
+  "profile":{
+    "Profil": "Profil",
+    "Admin": "Admin",
+    "Odhlasit_se": "Odhlásit se"
+  },
+  "eticky-kodex":{
+    "eticky-kodex": "Etický kodex",
+    "title": "Etický kodex pro publikování v časopise Aplikovaná psychologie/Applied Psychology",
+    "duties": "Příslušné povinnosti a očekávání od autorů, recenzentů a editorů.",
+    "duties-author": "1. Odpovědnost autora",
+    "duties-author1": "Autoři jsou povinni:",
+    "duties-author2": "• potvrdit, že jejich rukopisy jsou jejich původní prací;",
+    "duties-author3": "• potvrdit, že rukopis nebyl dříve zveřejněn jinde;",
+    "duties-author4": "• potvrdit, že se v současné době neuvažuje o publikaci rukopisu jinde;",
+    "duties-author5": "• oznámit editorovi jakýkoliv střet zájmů;",
+    "duties-author6": "• identifikovat všechny zdroje použité při tvorbě rukopisu;",
+    "duties-author7": "• hlásit chyby, které objeví ve svém rukopise.",
+    "duties-reviewer": "2. Odpovědnost recenzenta",
+    "duties-reviewer1": "Recenzenti jsou povinni:",
+    "duties-reviewer2": "• oznámit editorovi jakékoliv zjištění střetu zájmů;",
+    "duties-reviewer3": "• zajistit, aby informace týkající se rukopisu byly důvěrné;",
+    "duties-reviewer4": "• upozornit editora na veškeré informace, které mohou být důvodem pro zamítnutí vydání rukopisu;",
+    "duties-reviewer5": "• vždy vyhodnotit rukopisy pouze pro jejich intelektuální obsah bez ohledu na rasu, pohlaví, sexuální orientaci, náboženské vyznání, etnický původ, státní příslušnost nebo politické smýšlení autorů;",
+    "duties-reviewer6": "• omluvit se editorovi z procesu hodnocení v případě, že se cítí nekvalifikovaný k přezkumu výzkumu uvedeného v rukopise, nebo když si je jistý, že zpracování recenze z jeho strany nebude možné.",
+    "duties-editor": "3. Odpovědnost editora",
+    "duties-editor1": "Editor je povinnen:",
+    "duties-editor2": "• zajistit, aby informace týkající se předložených rukopisů byly důvěrné;",
+    "duties-editor3": "• vyloučit jakýkoliv střet zájmů;",
+    "duties-editor4": "• vyhodnotit rukopisy pouze pro jejich intelektuální obsah;",
+    "duties-editor5": "• být odpovědný za rozhodnutí spojená s publikováním podaných rukopisů.",
+    "breach": "4. Porušení kterékoliv části etického kodexu včetně plagiátorství a jiného neetického chování bude mít za následek vyřazení rukopisu.",
+    "norms": "Vydání tohoto etického kodexu bylo zpracováno na základě pokynů a norem vypracovaných Committee on Publication Ethics (COPE), dostupných z:"
+  },
+  "pro-autory":{
+  "pokyny-pro-autory": "Pokyny pro autory",
+  "zmena-odstavec": "Od 2. února 2023 je časopis Aplikovaná psychologie/Applied Psychology zařazen v databázi ERIH PLUS (European Reference Index for the Humanities and the Social Sciences).",
+  "prvni-odstavec": "Příspěvky do časopisu Aplikovaná psychologie/Applied Psychology se přijímají v elektronické podobě ve formátu Word, text písmem Times New Roman, velikost 14, řádkování 1,5; zarovnání do bloku. Rozsah příspěvků je minimálně 6 a maximálně 20 normostran včetně poznámek pod čarou. Jedna normostrana obsahuje 1800 znaků na stránku včetně mezer, včetně tabulek, grafů, případných obrázků v černobílém provedení.",
+  "druhy-odstavec": "Ke každému příspěvku musí být na konci připojen seznam literatury a pramenů, titulek příspěvku v angličtině, abstrakt v angličtině, klíčová slova v češtině a angličtině.",
+  "treti-odstavec": "V příspěvku je nutné uvést jméno autora/autorů včetně titulů, název instituce, v níž autor/autoři profesně působí a emailovou adresu autora/autorů. Rukopis musí také obsahovat stručný autorský profil autora/všech autorů (uvést na konec článku) a informace o grantové podpoře, pokud je na nějakou článek vázán (uvádí se název poskytovatele této podpory a číslo a název projektu).",
+  "ctvrty-odstavec": "Více v pokynech pro autory ",
+  "zde": "zde.",
+  "paty-odstavec": "Rukopisy zasílejte redakci v digitální podobě e-mailem na adresu",
+  "recenzni-rizeni": "Recenzní řízení",
+  "sesty-odstavec": "Recenzní řízení v časopise Aplikovaná psychologie/Applied Psychology je vůči autorům prováděno anonymně dvěma odborníky, tj. recenzenti obdrží příspěvky bez uvedení jména autora. Autoři příspěvku obdrží anonymní posudky, tj. bez uvedení jmen recenzentů. V případě, že oba text doporučí k tisku bez výhrad, je příspěvek, po schválení šéfredaktorem a redakční radou, obratem zařazen do tisku. V případě, že jeden nebo oba recenzenti zjistí v textu jakékoliv nedostatky, které podle jejich názoru mají zásadní vliv na celkovou kvalitu článku, je s nimi autor obratem seznámen, aby mohl zajistit nápravu."
+},
+  "redakce":{
+    "redakce": "Redakce",
+    "sefredaktor": "Šéfredaktor",
+    "zastupce-sefredaktor": "Zástupce šéfredaktora",
+    "clenove-redakcni-rady": "Členové redakční rady",
+    "vykonny-redaktor": "Výkonný redaktor",
+    "ceska-republika": "Česká republika",
+    "slovenska-republika": "Slovenská republika",
+    "spanelsko": "Španělsko",
+    "polska-republika": "Polská republika",
+    "ruska-federace": "Ruská federace"
+  },
+  "vydavatel":{
+    "vysoka-skola": "Vysoká škola aplikované psychologie, s. r. o. Karlštejnská 30",
+    "sidlo": "Sídlo vysoké školy",
+    "prvni-odstavec": "Vysoká škola aplikované psychologie je soukromá vysoká škola akreditovaná Ministerstvem školství, mládeže a tělovýchovy ČR.",
+    "druhy-odstavec": "Cílem této vysoké školy je poskytnout studentům vysokoškolskou kvalifikaci s aplikací psychologie a dalších společenskovědních oborů pro výkon práce v oblasti managementu a personalistiky s domácími i zahraničními pracovníky, menšinami a etniky, jak v České republice, tak kdekoli ve světě. Vysoká škola aplikované psychologie dává nové možnosti studia aplikované psychologie pro všechny zájemce. Pro absolventy středních škol – maturanty formou denního studia a pro lidi z praxe, při zaměstnání formou kombinovaného studia (dálkové studium).",
+    "vice-informaci": "Více informací na"
+  },
+  "login":{
+    "prihlaseni": "Přihlášení!",
+    "email": "Email",
+    "heslo": "Heslo",
+    "reset-heslo": "Zapomněli jste heslo?",
+    "log-in": "Přihlásit se"
+  },
+  "home":{
+    "title": "Úvod",
+    "uvod-text": "Časopis Aplikovaná psychologie/Applied Psychology vydává od akademického roku 2015/2016 Vysoká škola aplikovaná psychologie. Jeho zaměření spočívá v publikační činnosti z oblasti aplikované psychologie a řadí se mezi recenzované vědecké časopisy publikující výsledky vědeckého výzkumu."
+  },
+  "create-post":{
+    "titulek-prispevku": "Zadejte titulek příspěvku!",
+    "cover-obrazek": "Nahrát cover obrázek",
+    "preview-obrazku": "Preview obrázku",
+    "vybrany-soubor": "Vybraný soubor:",
+    "zverejnit-prispevek": "Zveřejnit příspěvek",
+    "preview-prispevek": "Preview příspěvku",
+    "placeholder-text": "Text vašeho příspěvku....",
+    "error1": " Ujistěte se, že máte nahranou úvodní fotku příspěvku!",
+    "error2": " Ujistěte se, že máte vyplněný titulek příspěvku a text příspěvku!"
+
+  },
+  "blog-post":{
+    "zhlednout-cislo": "Zobrazit poslední vydání"
+  },
+  "view-blog":{
+    "locale": "cz-cs",
+    "posted": "Zveřejněno: "
+  },
+  "blogs":{
+    "edit-posts": "Upravit příspěvky",
+    "releases": "VYDÁNÍ - ROČNÍK "
+  },
+  "blog-card":{
+    "view-post": "Zhlédnout číslo",
+    "published": "Publikováno: "
+  }
+  
+
+
+}

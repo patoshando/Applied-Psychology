@@ -1,0 +1,119 @@
+{
+    "posledni-cisla": "Read previous issues",
+    "mobile": "Applied Psychology",
+    "routes":{
+      "pro-autory":"For-authors"
+    },
+    "nav": {
+        "Domu": "Home",
+        "Archiv": "Archives",
+        "Pro_Autory": "For Authors",
+        "Eticky_kodex": "Ethics Statement",
+        "Redakce": "Editorial Office",
+        "Vydavatel": "Publisher",
+        "Kontakt": "Contact",
+        "Novy_prispevek": "New Post",
+        "Prihlasit": "Admin"
+    },
+    "profile":{
+        "Profil": "Profile",
+        "Admin": "Admin",
+        "Odhlasit_se": "Sign Out"
+      },
+      "eticky-kodex":{
+        "eticky-kodex": "Ethics statement",
+        "title": "Publication Ethics Statement for the Aplikovaná psychologie/Applied Psychology",
+        "duties": "The relevant duties and expectations of authors, reviewers, and editors.",
+        "duties-author": "1. Author’s Responsibilities",
+        "duties-author1": "Authors are obligated:",
+        "duties-author2": "• to certify that the manuscript has not previously been published elsewhere;",
+        "duties-author3": "• to certify that the manuscript has not previously been published elsewhere;",
+        "duties-author4": "• to certify that the manuscript is not currently being considered for publication elsewhere;",
+        "duties-author5": "• to notify editor of any conflicts of interest;",
+        "duties-author6": "• to identify all sources used in the creation of their manuscript;",
+        "duties-author7": "• to identify all sources used in the creation of their manuscript;",
+        "duties-reviewer": "2. Reviewer’s Responsibilities",
+        "duties-reviewer1": "Reviewers are obligated:",
+        "duties-reviewer2": "• to disclose to editor any conflicts of interest;",
+        "duties-reviewer3": "• to keep information pertaining to the manuscript confidential;",
+        "duties-reviewer4": "• to bring to the attention of the editor any information that may be reason to reject publication of a manuscript;",
+        "duties-reviewer5": "• at any time to evaluate manuscripts only for their intellectual content without regard to race, gender, sexual orientation, religious belief, ethnic origin, citizenship, or political philosophy of the authors;",
+        "duties-reviewer6": "• to notify editor and excuse himself from the review process in case that they feel unqualified to review the research reported in a manuscript or know that its prompt review will be impossible.",
+        "duties-editor": "3. Editor’s Responsibilities",
+        "duties-editor1": "Editor is obligated:",
+        "duties-editor2": "• to keep information pertaining to submitted manuscripts confidential;",
+        "duties-editor3": "• to disclose any conflicts of interest;",
+        "duties-editor4": "• to evaluate manuscripts only for their intellectual content;",
+        "duties-editor5": "• to be responsible for making publication decisions for submitted manuscripts.",
+        "breach": "4. Violation of all parties commits to these publication ethics including plagiarism or other unethical behaviour will be reason for removing any manuscript.",
+        "norms": "Publication Ethics Statement is based on the guidelines and standards developed by the Committee on Publication Ethics (COPE), available at: "
+      },
+      "pro-autory":{
+        "pokyny-pro-autory": "Instructions for authors",
+        "zmena-odstavec": "Since 2 February 2023 the Applied Psychology journal has been included in the ERIH PLUS database (European Reference Index for the Humanities and the Social Sciences).",
+        "prvni-odstavec": "Contributions to the journal Aplikovaná psychologie/Applied Psychology are accepted in electronic form in Word format, text in Times New Roman font, size 14, spacing 1.5; align to block. The range of contributions is a minimum of 6 and a maximum of 20 standard pages, including footnotes. One standard page contains 1,800 characters per page, including spaces, including tables, graphs, and any images in black and white.",
+        "druhy-odstavec": "A list of literature and sources, a title of the paper in English, an abstract in English, keywords in Czech and English must be attached to each contribution.",
+        "treti-odstavec": "The name of the author/authors including their titles, the name of the institution where the author/authors work professionally and the email address of the author/authors must be stated in the contribution. The manuscript must also contain a brief author profile of the author/all authors (state at the end of the article) and information about grant support, if it is linked to an article (state the name of the provider of this support and the number and name of the project).",
+        "ctvrty-odstavec": "More on the guidelines for authors",
+        "zde": "here.",
+        "paty-odstavec": "Send manuscripts to the editors in digital form by e-mail to the address",
+        "recenzni-rizeni": "The peer-review process",
+        "sesty-odstavec": "The review process in the journal Applied Psychology is carried out anonymously by two experts, i.e. the reviewers receive contributions without mentioning the author's name. The authors of the contribution will receive anonymous reviews, i.e. without indicating the names of the reviewers. In the event that both recommend the text for printing without reservations, the contribution, after approval by the editor-in-chief and the editorial board, is immediately included in the press. In the event that one or both reviewers discover any flaws in the text that, in their opinion, have a major impact on the overall quality of the article, the author is immediately informed of them so that they can ensure correction."
+    },
+    "redakce":{
+        "redakce": "Publisher",
+        "sefredaktor": "Editor in chief",
+        "zastupce-sefredaktor": "Deputy editor in chief",
+        "clenove-redakcni-rady": "Editorial board",
+        "vykonny-redaktor": "Executive editor",
+        "ceska-republika": "Czech republic",
+        "slovenska-republika": "Slovakia",
+        "spanelsko": "Spain",
+        "polska-republika": "Poland",
+        "ruska-federace": "Russian Federation"
+      },
+      "vydavatel":{
+        "vysoka-skola": "University of applied psychology, s. r. o. Karlštejnská 30",
+        "sidlo": "Residency",
+        "prvni-odstavec": "The University of Applied Psychology is a private university accredited by the Ministry of Education, Youth and Sports of the Czech Republic.",
+        "druhy-odstavec": "The aim of this university is to provide students with a university qualification with the application of psychology and other social science fields for the performance of work in the field of management and human resources with domestic and foreign workers, minorities and ethnicities, both in the Czech Republic and anywhere in the world. The College of Applied Psychology gives new opportunities to study applied psychology for all interested parties. For high school graduates - high school graduates in the form of full-time studies and for people with experience, in the form of combined studies (distance learning) when employed.",
+        "vice-informaci": "More information available at"
+      },
+      "login":{
+        "prihlaseni": "Log In!",
+        "email": "Email",
+        "heslo": "Password",
+        "reset-heslo": "Did you forget your password?",
+        "log-in": "Log In"
+      },
+      "home":{
+        "title": "Introduction",
+        "uvod-text": "The journal Applied Psychology has been published by the University of Applied Psychology since the academic year 2015/2016. Its focus lies in publishing activities in the field of applied psychology and ranks among peer-reviewed scientific journals publishing the results of scientific research."
+      },
+      "create-post":{
+        "titulek-prispevku": "Title of your post",
+        "cover-obrazek": "Upload cover photo",
+        "preview-obrazku": "Preview cover photo",
+        "vybrany-soubor": "File selected:",
+        "zverejnit-prispevek": "Post",
+        "preview-prispevek": "Preview of your post",
+        "placeholder-text": "Text....",
+        "error1": " Please ensure you uploaded a cover photo!",
+        "error2": " Please ensure Blog Title & Blog Post has been filled!"
+    
+      },
+      "blog-post":{
+        "zhlednout-cislo": "View the latest issue"
+      },
+      "view-blog":{
+        "locale": "en-us"
+      },
+      "blogs":{
+        "edit-posts": "Edit Posts",
+        "releases": "RELEASE YEAR "
+      },
+      "blog-card":{
+        "view-post": "View Release",
+        "published": "Published on: "
+      }   
+}
