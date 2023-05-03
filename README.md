@@ -11,3 +11,5 @@ neovlivňuje production verzi!
 ### přihlašování/odhlašování pomocí firebase authentication
 ### přidávání/mazání/editování článků
 ### kompletní překlad z CZ do AJ pomocí i18n knihovny
+### databáze pomocí firebase databases
+### implementace url pomocí routeru
