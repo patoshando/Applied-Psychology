@@ -13,3 +13,12 @@ neovlivňuje production verzi!
 ### kompletní překlad z CZ do AJ pomocí i18n knihovny
 ### databáze pomocí firebase databases
 ### implementace url pomocí routeru
+
+
+
+# HOSTING
+
+
+```
+https://zapocet-blog.web.app/cs
+```
